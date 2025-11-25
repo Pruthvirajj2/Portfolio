@@ -20,7 +20,7 @@ const Skills = () => {
         { name: "TypeScript", icon: "📘" },
         { name: "HTML/CSS", icon: "🎨" }
       ],
-      color: "from-blue-500 to-cyan-500"
+      color: "from-primary to-secondary"
     },
     {
       title: "Frameworks & Libraries",
@@ -39,7 +39,7 @@ const Skills = () => {
         { name: "PyTorch", icon: "🔥" },
         { name: "TensorFlow", icon: "🤖" }
       ],
-      color: "from-purple-500 to-pink-500"
+      color: "from-primary to-secondary"
     },
     {
       title: "Developer Tools",
@@ -57,7 +57,7 @@ const Skills = () => {
         { name: "VS Code", icon: "💻" },
         { name: "Eclipse", icon: "🌘" }
       ],
-      color: "from-green-500 to-teal-500"
+      color: "from-primary to-secondary"
     },
     {
       title: "Systems & Concepts",
@@ -76,7 +76,7 @@ const Skills = () => {
         { name: "RESTful APIs", icon: "🔗" },
         { name: "Data Structures", icon: "📊" }
       ],
-      color: "from-orange-500 to-red-500"
+      color: "from-primary to-secondary"
     }
   ];
 

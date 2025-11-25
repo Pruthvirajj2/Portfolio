@@ -16,7 +16,7 @@ const Projects = () => {
         "Built user presence indicators (online/offline status)",
         "Designed efficient MongoDB schemas for persistent chat history"
       ],
-      gradient: "from-blue-500 via-purple-500 to-pink-500",
+      gradient: "from-primary to-secondary",
       link: "https://github.com/Pruthvirajj2"
     },
     {
@@ -31,7 +31,7 @@ const Projects = () => {
         "Integrated Twilio API for automatic SMS alerts to emergency services",
         "Supports both CCTV surveillance and file upload validation"
       ],
-      gradient: "from-green-500 via-teal-500 to-cyan-500",
+      gradient: "from-primary to-secondary",
       link: "https://github.com/Pruthvirajj2"
     }
   ];

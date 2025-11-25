@@ -63,15 +63,15 @@ const About = () => {
               className="space-y-6"
             >
               <div className="card group hover:shadow-2xl hover:shadow-primary/10 relative overflow-hidden">
-                <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 to-cyan-500"></div>
-                <div className="absolute inset-0 bg-gradient-to-br from-blue-500/5 to-cyan-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary to-secondary"></div>
+                <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-secondary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
 
                 <div className="relative">
                   <div className="flex items-center gap-3 mb-6">
-                    <div className="p-3 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-xl text-3xl">
+                    <div className="p-3 bg-gradient-to-r from-primary to-secondary rounded-xl text-3xl">
                       🎓
                     </div>
-                    <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-cyan-500 bg-clip-text text-transparent">
+                    <h3 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                       Education
                     </h3>
                   </div>
@@ -87,7 +87,7 @@ const About = () => {
                       </div>
                       <div className="flex items-center gap-4 text-sm">
                         <span className="px-3 py-1 bg-dark-50 rounded-lg text-gray-400">Jun 2021 - Jun 2025</span>
-                        <span className="px-3 py-1 bg-gradient-to-r from-blue-500/20 to-cyan-500/20 rounded-lg text-primary font-semibold border border-primary/30">
+                        <span className="px-3 py-1 bg-gradient-to-r from-primary/20 to-secondary/20 rounded-lg text-primary font-semibold border border-primary/30">
                           8.3 CGPA
                         </span>
                       </div>
@@ -97,15 +97,15 @@ const About = () => {
               </div>
 
               <div className="card group hover:shadow-2xl hover:shadow-secondary/10 relative overflow-hidden">
-                <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-purple-500 to-pink-500"></div>
-                <div className="absolute inset-0 bg-gradient-to-br from-purple-500/5 to-pink-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary to-secondary"></div>
+                <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-secondary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
 
                 <div className="relative">
                   <div className="flex items-center gap-3 mb-6">
-                    <div className="p-3 bg-gradient-to-r from-purple-500 to-pink-500 rounded-xl text-3xl">
+                    <div className="p-3 bg-gradient-to-r from-primary to-secondary rounded-xl text-3xl">
                       🏆
                     </div>
-                    <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
+                    <h3 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                       Certifications
                     </h3>
                   </div>

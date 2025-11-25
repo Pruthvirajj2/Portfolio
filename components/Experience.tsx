@@ -15,7 +15,7 @@ const Experience = () => {
         "Developed a proactive monitoring agent that sends weekly token expiry status emails to customers, preventing workflow disruptions and improving operational reliability",
         "Ensured synchronization between Pulsar namespaces and SQL database to maintain consistency of token metadata such as expiry dates"
       ],
-      color: "from-blue-500 to-cyan-500",
+      color: "from-primary to-secondary",
       current: true
     },
     {
@@ -29,7 +29,7 @@ const Experience = () => {
         "Integrated LLMs including Claude Haiku and Sonnet via Amazon Bedrock for advanced language reasoning",
         "Developed a full data analysis and visualization agent using Boomi DataHub, Salesforce, Google Sheets, and Grafana; secured a Top 3 position in the Boomi Agent Hackathon"
       ],
-      color: "from-purple-500 to-pink-500",
+      color: "from-primary to-secondary",
       current: false
     }
   ];

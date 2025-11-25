@@ -7,7 +7,7 @@
 
 > A modern, interactive portfolio website showcasing my work as a Software Development Engineer at Boomi.
 
-[🌐 **Live Demo**](#) | [📧 Contact Me](mailto:pruthvirajbhovi@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/pruthviraj-chandru24)
+[🌐 **Live Demo**](https://portfolio-iota-two-65.vercel.app/) | [📧 Contact Me](mailto:pruthvirajbhovi@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/pruthviraj-chandru24)
 
 ---
 
@@ -211,7 +211,7 @@ MIT License - Feel free to use this template for your own portfolio!
 - 💼 [LinkedIn](https://linkedin.com/in/pruthviraj-chandru24)
 - 💻 [GitHub](https://github.com/Pruthvirajj2)
 - 📧 [Email](mailto:pruthvirajbhovi@gmail.com)
-- 🌐 [Portfolio](#) <!-- Add your deployed URL here -->
+- 🌐 [Portfolio](https://portfolio-iota-two-65.vercel.app/)
 
 ---
 
